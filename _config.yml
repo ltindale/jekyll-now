@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Lauren Tindale
+name: Dr. Lauren Tindale
 
 # Short bio or description (displayed in the header)
 description: Postdoctoral Fellow at the University of British Columbia
@@ -84,3 +84,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  
+  <a href="https://iconscout.com/icons/dna" target="_blank">Dna Icon</a> by <a href="https://iconscout.com/contributors/delesign" target="_blank">Delesign Graphics</a>

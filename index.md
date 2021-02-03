@@ -9,6 +9,8 @@ title: About
 
 ### Header
 
+Test text here
+
 
 <img src="images/statistics-graph.png" width="50">
 

@@ -5,7 +5,7 @@ title: About
 
 ## About
 
-<img src="images/test-tube.png" width="100">
+<img src="images/test-tube.png" width="50">
 
-![](/images/statistics-graph.png){ :height="36px" }
+<img src="images/statistics-graph.png" width="50">
 

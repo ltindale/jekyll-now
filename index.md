@@ -5,7 +5,7 @@ title: About
 
 ## About
 
-![](/images/test-tube.png)
+![](https://raw.githubusercontent.com/ltindale/jekyll-now/master/images/test-tube.png)
 
-![](/images/statistics-graph.png)
+![](https://raw.githubusercontent.com/ltindale/jekyll-now/master/images/statistics-graph.png)
 

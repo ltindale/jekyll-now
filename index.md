@@ -5,7 +5,7 @@ title: About
 
 ## About
 
-![icon](/images/test-tube.png)
+![](/images/test-tube.png =100x100)
 
-![](/images/statistics-graph.png)
+![](/images/statistics-graph.png =100x100)
 

@@ -5,13 +5,7 @@ title: About
 
 ## About
 
-Some information about you!
+![](/images/test-tube.png)
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+![](/images/statistics-graph.png)
 
